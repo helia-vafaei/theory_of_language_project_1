@@ -23,5 +23,5 @@ B,a,B
 B,b,B
 <br>
 bbb
-# output
+output:
 Rejected
