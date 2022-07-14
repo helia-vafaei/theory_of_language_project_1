@@ -23,5 +23,7 @@ B,a,B
 B,b,B
 <br>
 bbb
+<br>
 output:
+<br>
 Rejected
